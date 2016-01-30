@@ -80,7 +80,7 @@
               "name": "[concat(parameters('adVMName'),'-data-disk1')]",
               "caching": "None",
               "createOption": "empty",
-              "diskSizeGB": 1000,
+              "diskSizeGB": 127,
               "lun": 0
             }
           ]
