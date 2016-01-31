@@ -116,7 +116,7 @@
               "name": "[concat(parameters('spVMName'),'-data-disk1')]",
               "createOption": "empty",
               "caching": "None",
-              "diskSizeGB": 128,
+              "diskSizeGB": 127,
               "lun": 0
             }
           ]
